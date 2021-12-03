@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/angelovec.lwc-kwqa2l1e",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve uLnpNF0gfVnzEO2R0HdE --open"
+  }
+}
